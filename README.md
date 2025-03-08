@@ -71,14 +71,14 @@ Step 0: Predicted token ID: 8840
 Response: (AI Response).
 ```
 ## 📂 Project Structure
-Epyac_model/
-├── Model.py         # Transformer model definition 🤖
-├── Data.py          # Dataset loading and tokenization 📝
-├── Train.py         # Training script 🏋️‍♂️
-├── Load.py          # Inference script 💬
-├── Model.pth        # Trained model weights (after training) 💾
-├── wikitext_train.txt  # WikiText-2 training data (generated) 📚
-└── README.md        # This file! 👋
+- Epyac_model/
+- ├── Model.py         # Transformer model definition 🤖
+- ├── Data.py          # Dataset loading and tokenization 📝
+- ├── Train.py         # Training script 🏋️‍♂️
+- ├── Load.py          # Inference script 💬
+- ├── Model.pth        # Trained model weights (after training) 💾
+- ├── wikitext_train.txt  # WikiText-2 training data (generated) 📚
+- └── README.md        # This file! 👋
 
 ## 🎨 Customization
 - Change Dataset: Edit Train.py to use your own text file:
