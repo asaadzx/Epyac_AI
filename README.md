@@ -71,7 +71,7 @@ Step 0: Predicted token ID: 8840
 Response: (AI Response).
 ```
 ## 📂 Project Structure
-- Epyac_model/
+### Epyac_model/
 - ├── Model.py         # Transformer model definition 🤖
 - ├── Data.py          # Dataset loading and tokenization 📝
 - ├── Train.py         # Training script 🏋️‍♂️
